@@ -5,6 +5,7 @@ The model.py file contains the neural network itself.
 The .pt file contains the weights recorded after training.
 The .pkl files contain the data respectively from the normalisation and the PCA carried out when the network was trained on the data.
 And the simulation, prediction and main files are the files used to carry out the prediction.
+The .txt files are the data used and must be placed in a /data folder.
 
 Here is the link to neural network training:
 https://colab.research.google.com/drive/1KqZ1pT7ZYKMJNm22lbHPQVDKCH5AyRBk?usp=sharing
